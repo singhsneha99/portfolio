@@ -5,4 +5,4 @@ NYU
 FCRIT
 
 # Open to:
-Jobs, Internshios, H1B sponsors
+Jobs, Internships, H1B sponsors
